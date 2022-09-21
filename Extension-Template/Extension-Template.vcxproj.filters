@@ -35,8 +35,5 @@
     <ClCompile Include="extension.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="starguard.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
