@@ -1,0 +1,270 @@
+﻿  main.cpp
+D:\ExecuteAssembly\main.cpp(15,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(15,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(15,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(15,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(15,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(15,83): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(16,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(16,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(18,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(18,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(19,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(19,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(19,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(19,35): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(19,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(19,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(19,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(19,59): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(19,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(19,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(23,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(23,59): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(23,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(23,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(23,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(23,71): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(24,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(24,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(25,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(25,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(28,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(28,11): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(28,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(28,95): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(31,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(31,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(33,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(33,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(39,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(39,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(41,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(41,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(48,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(48,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(52,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(52,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(54,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(54,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(55,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(55,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(57,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(57,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(58,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(58,59): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(58,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(58,95): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(59,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(59,71): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(61,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(61,11): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(61,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(61,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(66,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(66,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(66,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(66,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(67,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(67,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(67,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(67,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(71,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(71,11): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(74,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(74,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(75,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(75,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(75,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(75,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(76,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(76,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(77,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(77,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(77,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(77,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(78,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(78,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(79,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(79,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(80,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(80,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(80,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(80,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(80,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(80,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(80,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(80,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(81,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(81,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(82,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(82,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(82,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(82,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(84,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(84,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(85,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(85,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(85,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(85,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(85,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(85,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(86,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(86,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(86,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(86,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(87,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(87,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(92,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(92,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(93,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(93,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(93,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(93,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(93,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(93,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(94,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(94,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(94,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(94,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(94,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(94,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(94,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(94,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(94,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(94,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(95,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(95,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(95,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(95,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(95,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(95,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(95,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(95,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(95,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(95,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(97,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(97,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(97,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(97,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(98,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(98,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(98,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(98,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(98,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(98,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(99,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(99,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(99,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(99,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(99,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(99,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(100,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(100,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(100,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(100,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(101,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(101,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(101,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(101,71): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(165,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(165,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(165,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(165,95): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,11): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,17): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,17): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,35): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,59): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(166,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(166,71): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(171,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(171,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(172,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(172,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(172,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(172,11): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(178,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(178,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(178,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(178,95): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(188,35): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(188,35): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(188,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(188,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(188,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(188,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(191,83): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(191,83): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(191,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(191,95): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,11): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,11): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,41): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,41): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,59): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(192,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(192,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(196,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(196,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(200,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(200,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(208,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(208,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(208,95): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(208,95): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(210,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(210,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(211,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(211,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(213,47): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(213,47): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(214,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(214,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(215,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(215,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(218,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(218,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(218,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(218,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(218,71): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(218,71): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(225,89): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(225,89): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(226,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(226,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(228,29): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(228,29): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(249,5): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(249,5): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(268,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(268,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(268,77): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(268,77): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(269,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(269,53): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(269,59): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(269,59): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(269,65): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(269,65): warning C4309: “初始化”: 截断常量值
+D:\ExecuteAssembly\main.cpp(303,53): warning C4838: 从“int”转换到“char”需要收缩转换
+D:\ExecuteAssembly\main.cpp(303,53): warning C4309: “初始化”: 截断常量值
+  ExecuteAssembly.vcxproj -> D:\ExecuteAssembly\Debug\ExecuteAssembly.exe
